@@ -1,0 +1,14 @@
+# Ignore qodo-related files and folders
+qodo/
+*.qodo
+
+# Ignore Debian key files (commonly .pem,.gpg, .asc, or .key)
+*.gpg
+*.asc
+*.key
+*.pem
+
+# Ignore IntelliJ IDEA project files and folders
+.idea/
+*.iml
+out/
