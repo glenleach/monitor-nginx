@@ -168,10 +168,11 @@ Received termination signal. Shutting down monitoring program gracefully...
 Notification email sent. Exiting now.
 ```
 
-## License
+License
 
-MIT License (or as per your organization/training requirements)
+Copyright © Techworld with Nana. All rights reserved.
 
+This project is provided for personal training and educational purposes only. No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law
 ---
 
 **This script is a demonstration project from the DevOps Bootcamp from TechWorld with Nana
